@@ -41,7 +41,7 @@ uvicorn main:app --reload
 <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
 ```
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=swoon&theme=cold)
-![mazandi profile](http://mazandi.herokuapp.com/api/random?tier=platinum&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api/random?tier=gold&theme=cold)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ohhamma&theme=cold)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pichulia&theme=cold)
